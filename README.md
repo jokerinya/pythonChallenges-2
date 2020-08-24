@@ -9,3 +9,8 @@ Hackerrank Questions-Answers
 
 > Day 13 Abstraction
 > https://www.hackerrank.com/challenges/30-abstract-classes/problem
+
+##
+
+> Day 14 Broaden Your Scope
+> https://www.hackerrank.com/challenges/30-scope/problem
