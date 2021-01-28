@@ -1,16 +1,3 @@
-# pythonisia_2_hackerrank
+# 30 Days of Code
 
-Hackerrank Questions-Answers
-
-> Day 12 Inheritence
-> https://www.hackerrank.com/challenges/30-inheritance/problem
-
-##
-
-> Day 13 Abstraction
-> https://www.hackerrank.com/challenges/30-abstract-classes/problem
-
-##
-
-> Day 14 Broaden Your Scope
-> https://www.hackerrank.com/challenges/30-scope/problem
+Some of the HackerRank [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) challenges answers.
